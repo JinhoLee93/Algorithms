@@ -32,6 +32,7 @@ class Solution:
           n = lps[n - 1]
           
       if n == len(needle):
+        
         return i - len(needle)
       
     return -1
