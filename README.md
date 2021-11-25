@@ -5,4 +5,4 @@
 - [Dijkstra's Algorithm](): Greedy pathfinding algorithm
 - [Bellman-Ford Algorithm](): 
 - [Sieves of Erastosthenes](): Count Primes 
-- []
+- [Partial Sum](): 
